@@ -91,5 +91,3 @@ dependencies:
   - msys2-conda-epoch=20160418=1
   - numpy=1.14.3=py36h9fa60d3_1
   - numpy-base=1.14.3=py36h555522e_1
-prefix: C:\Users\tilseb\anaconda3\envs\plotting
-
