@@ -6,4 +6,4 @@ The script plots annual energy transmissions and energy transmission capacities 
 - Considered years: 2016, 2020, 2030, 2040, 2050
 
 
-In order to avoid trouble shooting, install the environment.yml file with all necessary packages and its dependencies.
+In order to avoid trouble shooting, install the requirements.yml file with all necessary packages and its dependencies.
