@@ -1,5 +1,4 @@
-# Plotting
-*Plotting of time-series data*
+# Plotting of time-series data
 
 The plotting-script plots time-series data from the main Balmorel input exel file (Data.xlsm), including solar power production (spp), variable electricity demand (ved), variable heat demand (vhd) and variable wind generation (vwg) for the year 2016.
 
