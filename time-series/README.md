@@ -1,6 +1,6 @@
 # Plotting of time-series data
 
-The plotting-script plots time-series data from the main Balmorel input exel file (Data.xlsm), including solar power production (spp), variable electricity demand (ved), variable heat demand (vhd) and variable wind generation (vwg) for the year 2016.
+The plotting-script plots time-series data from the main Balmorel input Excel file (Data.xlsm), including solar power production (spp), variable electricity demand (ved), variable heat demand (vhd) and variable wind generation (vwg) for the year 2016.
 
 - Considered countries are Denmark (DK), Germany (DE), Norway (NO) and Sweden (SE).
 
