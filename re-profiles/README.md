@@ -1,7 +1,7 @@
 # README
 
 ## Description
-This jupyter notebook plots time series data for the year 2016 from the main Balmorel input exel file (Data.xlsm), including:
+This jupyter notebook plots time series data for the year 2012 from the main Balmorel input exel file (Data.xlsm), including:
 - solar power production (spp)
 - variable electricity demand (ved)
 - variable heat demand (vhd)
