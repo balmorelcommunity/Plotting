@@ -7,11 +7,8 @@ This jupyter notebook plots time series data for the year 2012 from the main Bal
 - variable heat demand (vhd)
 - variable wind generation (vwg)
 
-Available countries are so far:
-- Denmark (DK)
+Available countries:
 - Germany (DE)
-- Norway (NO)
-- Sweden (SE)
 
 Each commodity is plotted for all countries and vice versa.
 The respective output directories are created automatically.
@@ -25,7 +22,7 @@ By default:
 - every 24th term is highlighted to indicate the length of one day.
 
 ## Installation
-- In order to avoid trouble shooting, install the requirements.yml file with all necessary packages and its dependencies using anaconda.
+- In order to avoid trouble shooting, install the requirements.yml file with anaconda.
 - To open, edit and execute the script
 	1. open the anaconda promt from the windows start menu: type `anaconda prompt`
 	2. activate the plotting environment: type `conda activate plotting`
